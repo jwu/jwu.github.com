@@ -6,19 +6,28 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Johnny's
-tagline:          'A personal wiki'
-description:      "Personal Wiki."
-url:              http://hyde.getpoole.com
+title:            Johnny's Personal Wiki
+tagline:          ''
+description:      ''
+url:              http://jwu.github.com
 
 author:
   name:           'Johnny Wu'
   url:            http://github.com/jwu
-
-paginate:         5
 
 # Custom vars
 version:          2.0.0
 
 github:
   repo:           https://github.com/jwu
+
+redcarpet:
+  extensions:     [
+      "no_intra_emphasis", 
+      "fenced_code_blocks", 
+      "autolink", 
+      "strikethrough", 
+      "superscript",
+      "tables",
+      "with_toc_data",
+  ]
