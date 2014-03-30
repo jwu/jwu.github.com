@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Johnny's
+tagline:          'A personal wiki'
+description:      "Personal Wiki."
+url:              http://hyde.getpoole.com
+
+author:
+  name:           'Johnny Wu'
+  url:            http://github.com/jwu
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/jwu
