@@ -35,6 +35,7 @@ title: Game Development Libraries
     * [clutter](http://www.clutter-project.org/)
     * [wykobi](http://www.wykobi.com/index.html)
     * [Cinder](http://libcinder.org)
+    * [openFrameworks](http://www.openframeworks.cc/)
     * [CGAL](http://www.cgal.org/)
   * Image
     * [DevIL](http://openil.sourceforge.net/)
