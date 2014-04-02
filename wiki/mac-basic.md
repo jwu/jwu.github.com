@@ -13,7 +13,7 @@ This settings help macvim use exvim correctly.
 
 Go to System Preferences -> Keyboard -> Keyboard, select "Use all F1,F2,...."
 
-![keyboard_settings_01](../images/keyboard_settings_01.png)
+![keyboard-settings](../images/keyboard-settings.png)
 
 ### Bash Profile
 
@@ -67,3 +67,7 @@ http://apple.stackexchange.com/questions/400/mac-os-x-hidden-features-and-nice-t
 **Libs and Includes**
 
 the libs/includes are in the `/user/local/include` and `/user/local/lib`
+
+## Hot Keys
+
+![mac-hotkeys](../images/mac-hotkeys.jpg)
