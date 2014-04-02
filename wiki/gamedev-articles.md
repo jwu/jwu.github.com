@@ -7,6 +7,7 @@ title: Game Development Articles
 
   * C Programming
     * [C Macro Tips and Tricks](http://www.mikeash.com/pyblog/friday-qa-2010-12-31-c-macro-tips-and-tricks.html)
+    * [Implementing a code generator with libclang](http://www.altdevblogaday.com/2014/03/05/implementing-a-code-generator-with-libclang/)
   * Algorithm
     * [api sorting algorithm](http://stringoftheseus.com/blog/2011/01/10/api-sorting-algorithms/)
     * [Cellular Automata Method for Generating Random Cave-Like Levels](http://roguebasin.roguelikedevelopment.org/index.php?title=Cellular_Automata_Method_for_Generating_Random_Cave-Like_Levels)

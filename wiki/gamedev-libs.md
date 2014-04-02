@@ -67,7 +67,7 @@ title: Game Development Libraries
     * [bullet-physics](http://bulletphysics.org/)
     * [PhysBAM](http://physbam.stanford.edu/)
   * GUI framework:
-    * [[http://www.antisphere.com/Wiki/tools:anttweakbar|AntTweakBar light and can used in c, SDL and many cases.
+    * [AntTweakBar](http://www.antisphere.com/Wiki/tools) light and can used in c, SDL and many cases.
     * [GTK+](http://www.gtk.org/:) a UI framework written in c
     * [iup](http://www.tecgraf.puc-rio.br/iup/:) a UI framework written in c and lua
     * [Awesomium](http://awesomium.com/) an offscreen web-browser rendering framework (need $$$)
