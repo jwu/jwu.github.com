@@ -23,6 +23,14 @@ When a "login shell" starts up, it reads the file `/etc/profile` and then `~/.ba
 or `~/.bash_login` or `~/.profile` (whichever one exists - it only reads one of these, 
 checking for them in the order mentioned).
 
+### Show hidden files in Finder
+
+Open terminal and type:
+
+```bash
+defaults write com.apple.Finder AppleShowAllFiles YES
+```
+
 ## Tips
 
 **capture screenshots on Mac OS X**
